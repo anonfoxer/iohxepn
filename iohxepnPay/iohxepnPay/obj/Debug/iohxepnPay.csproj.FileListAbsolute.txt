@@ -1,0 +1,9 @@
+c:\users\kevin\documents\visual studio 2015\Projects\iohxepnPay\iohxepnPay\bin\Debug\iohxepnPay.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\iohxepnPay\iohxepnPay\bin\Debug\iohxepnPay.exe
+c:\users\kevin\documents\visual studio 2015\Projects\iohxepnPay\iohxepnPay\bin\Debug\iohxepnPay.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\iohxepnPay\iohxepnPay\obj\Debug\iohxepnPay.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\iohxepnPay\iohxepnPay\obj\Debug\iohxepnPay.Form1.resources
+c:\users\kevin\documents\visual studio 2015\Projects\iohxepnPay\iohxepnPay\obj\Debug\iohxepnPay.Properties.Resources.resources
+c:\users\kevin\documents\visual studio 2015\Projects\iohxepnPay\iohxepnPay\obj\Debug\iohxepnPay.csproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2015\Projects\iohxepnPay\iohxepnPay\obj\Debug\iohxepnPay.exe
+c:\users\kevin\documents\visual studio 2015\Projects\iohxepnPay\iohxepnPay\obj\Debug\iohxepnPay.pdb
